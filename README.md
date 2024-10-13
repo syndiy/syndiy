@@ -1,7 +1,4 @@
-# Sobre Mim
-
-Olá! Sou @syndiy, apaixonada por tecnologia e inovação. Adoro ler, programar, jogar, ir para a academia e criar novos projetos, principalmente jogos.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B7AAC0&center=true&width=435&lines=%E2%95%B0%E2%94%88%E2%9E%A4+Hi%2C+i'm+Cindy+%E2%9C%AE%E2%8B%86%CB%99)](https://git.io/typing-svg)
 ## 🎯 Objetivos
 
 - Desenvolver habilidades avançadas em programação e design de jogos.
