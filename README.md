@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B7AAC0&center=true&width=435&lines=%E2%95%B0%E2%94%88%E2%9E%A4+Hi%2C+i'm+Cindy+%E2%9C%AE%E2%8B%86%CB%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B7AAC0&center=false&width=435&lines=%E2%95%B0%E2%94%88%E2%9E%A4+Hi%2C+i'm+Cindy+%E2%9C%AE%E2%8B%86%CB%99)](https://git.io/typing-svg)
+
+[![syndiy GitHub stats](https://github-readme-stats.vercel.app/api?username=syndiy&show_icons=true&theme=dracula)](https://github.com/syndiy/github-readme-stats)
+
 ## 🎯 Objetivos
 
 - Desenvolver habilidades avançadas em programação e design de jogos.
