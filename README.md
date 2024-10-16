@@ -38,7 +38,7 @@
 
 - GitHub: [@syndiy](https://github.com/syndiy)
 - Email: araujocindy12@gmail.com
-- LinkedIn: [Seu Perfil](www.linkedin.com/in/cindy-vitória-a001612a7)
+- LinkedIn: [meu perfil](www.linkedin.com/in/cindy-vitória-a001612a7)
 
 ## 🚀 Em Andamento
 
