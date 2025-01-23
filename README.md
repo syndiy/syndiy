@@ -27,14 +27,7 @@
 - **Comunicação**: Habilidade de comunicar ideias de forma clara e eficaz.
 - **Trabalho em Equipe**: Colaboração com outros para alcançar objetivos comuns.
 - **Gerenciamento de Tempo**: Organização e priorização de tarefas para cumprir prazos.
-## 🎮 Gostos
 
-- **Leitura**: Apaixonada por livros de ficção científica e fantasia.
-- **Programação**: Adoro criar novos projetos e explorar novas tecnologias.
-- **Jogos**: Gosto de jogar, desenvolver jogos e seus desings, sempre buscando novas experiências.
-- **Academia**: Manter um estilo de vida ativo e saudável.
-
-## 📫 Como me Encontrar
 
 - GitHub: [@syndiy](https://github.com/syndiy)
 - Email: araujocindy12@gmail.com
