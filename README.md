@@ -2,7 +2,7 @@
 
 ![syndiy's Stats](https://github-readme-stats.vercel.app/api?username=syndiy&theme=material-palenight&show_icons=true&hide_border=true&count_private=false)
 
-![syndiy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syndiy&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![syndiy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syndiy&theme=material-palenight&show_icons=false&hide_border=true&layout=compact)
 ## 🎯 Objetivos
 
 - Desenvolver habilidades avançadas em programação e design de jogos.
