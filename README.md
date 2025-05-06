@@ -5,7 +5,7 @@
 ![syndiy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syndiy&theme=material-palenight&show_icons=false&hide_border=true&layout=compact)
 ## 🎯 Objetivos
 
-- Desenvolver habilidades avançadas em programação e design de jogos.
+- Desenvolver habilidades avançadas em programação.
 - Colaborar em projetos criativos e inovadores.
 - Contribuir para a comunidade de desenvolvedores compartilhando conhecimento e experiências.
 
@@ -30,9 +30,9 @@
 - **Gerenciamento de Tempo**: Organização e priorização de tarefas para cumprir prazos.
 
 
-- GitHub: [@syndiy](https://github.com/syndiy)
+
 - Email: araujocindy12@gmail.com
-- LinkedIn: [meu perfil](www.linkedin.com/in/cindy-vitória-a001612a7)
+- LinkedIn: [meu perfil](www.linkedin.com/in/cindy-vitória)
 
 ## 🚀 Em Andamento
 
