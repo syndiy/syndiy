@@ -32,10 +32,10 @@
 
 
 - Email: araujocindy12@gmail.com
-- LinkedIn: [meu perfil](www.linkedin.com/in/cindy-vitória)
+- LinkedIn: www.linkedin.com/in/cindy-vitória
 
 ## 🚀 Em Andamento
 
-Atualmente, estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento de jogos e web. Sempre aberta a novas colaborações e oportunidades!
+Atualmente, estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web. Sempre aberta a novas colaborações e oportunidades!
 
 Com ❤️ por [syndiy](https://github.com/syndiy) 😊
